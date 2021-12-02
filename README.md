@@ -38,10 +38,10 @@ LogisticRegression
 
 Для применения метода BERT была использована предобученная многоязычная модель BERT-base:
 
-  http://files.deeppavlov.ai/deeppavlov_data/bert/multi_cased_L-12_H-768_A-12_pt.tar.gz
+  *http://files.deeppavlov.ai/deeppavlov_data/bert/multi_cased_L-12_H-768_A-12_pt.tar.gz*
 
 data_features_train и data_features_test, полученные путем создания эмбеддингов можно посмотреть:
 
-  data_features_train: https://drive.google.com/file/d/1Dd60PY35epstIC3g_str27SPjqbWDx8O/view?usp=sharing
+  *data_features_train: https://drive.google.com/file/d/1Dd60PY35epstIC3g_str27SPjqbWDx8O/view?usp=sharing*
   
-  data_features_test: https://drive.google.com/file/d/1qKUGqiZ_9hBctSLn1bJ-xA2MM1YPUGVE/view?usp=sharing
+  *data_features_test: https://drive.google.com/file/d/1qKUGqiZ_9hBctSLn1bJ-xA2MM1YPUGVE/view?usp=sharing*
